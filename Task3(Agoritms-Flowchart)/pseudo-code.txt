@@ -7,11 +7,19 @@ repeat same process all letter in string end
 display new list with reverse string
 END Algorithm 
 -----------------------------------------------------------
-Algorithm HighestStudentMarks(number)
-make a list for all student markes
-then compare the markes in the list 
+Algorithm SearchHighestStudentMarks(number)
+make a list for all student marks
+then compare the marks in the list to each other if mark> highest mark select mark is a highest make and compare it with another mark 
+repeat till highest mark = highest mark
+display highest number
+End Algorithm
 
 -----------------------------------------------------------
+Algorithm SortHighestStudentMarks(number)
+make a list for all student marks
+then compare the marks in the list to each other until the highest mark be in first of the list
+display the list 
+End Algorithm
 
 -----------------------------------------------------------
 Algorithm NumberIsPalindrome(n)
@@ -20,6 +28,7 @@ count number if there is one number return true
 else make a list for input number and another list reverse the number
 and compare between them if list = reverse list return true
 else return false
+End Algorithm
+
 ------------------------------------------------------------
 
------------------------------------------------------------
