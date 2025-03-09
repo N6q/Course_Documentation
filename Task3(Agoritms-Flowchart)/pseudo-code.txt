@@ -1,0 +1,25 @@
+Algorithm ReverseString(string)
+input string
+count number of letter in string
+add new empty list that size of count number
+then put last letter in string in new empty list
+repeat same process all letter in string end
+display new list with reverse string
+END Algorithm 
+-----------------------------------------------------------
+Algorithm HighestStudentMarks(number)
+make a list for all student markes
+then compare the markes in the list 
+
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+Algorithm NumberIsPalindrome(n)
+input number
+count number if there is one number return true
+else make a list for input number and another list reverse the number
+and compare between them if list = reverse list return true
+else return false
+------------------------------------------------------------
+
+-----------------------------------------------------------

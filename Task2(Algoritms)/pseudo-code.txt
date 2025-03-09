@@ -1,0 +1,55 @@
+Finding the Sum of Two Numbers:
+
+algorithm Adding two numbers
+get 1st number =x
+get 2nd number =y
+result = z
+do the sum
+		x+y=z
+
+display the result
+		return z
+
+END Algorithm
+-----------------------------------------------------------
+Algorithm Factorial (x)
+input number = x
+first set the result to x
+result = x
+next take x and subtract 1 
+x-1= number of loops
+multiply the result by each number down till reach to 1
+and display the resut 
+return result
+END Algorithm
+-----------------------------------------------------------
+Algorithm Factorial (x)
+if the x=0 or x=1 then choose 1
+else x * Factorial(x - 1) 
+END Algorithm
+-----------------------------------------------------------
+Algorithm FindLargestNumber(list)
+set largest num to 0 (first number in the list)
+then compare 0 to the 2nd number 
+if 0 is largest number set largest num to 0
+else set largest num to 2nd number then 
+compare it with 3rd number in the list... repeat untill reach to last number in the list
+display the largest number
+END Algorithm
+------------------------------------------------------------
+Algorithm CountVowels(string)
+input string
+if vowels in string
+than
+count number of vowels in string
+display number of vowels
+END Algorithm
+-----------------------------------------------------------
+Algorithm ReverseString(string)
+input string
+count number of letter in string
+add new empty list that size of count number
+then put last letter in string in new empty list
+repeat same process all letter in string end
+display new list with reverse string
+END Algorithm
